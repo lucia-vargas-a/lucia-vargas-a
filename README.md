@@ -2,7 +2,7 @@ Hi, I’m Lucia
 
 @lucia-vargas-a 👋
 
-I’m interested in Data projects particualrly data quality and democratization. Also interestes in outdoor activities, reading and writing.
+I’m interested in Data projects, particularly data quality and data democratization. I also like to read, write and practice outdoor sports.
 
 🌱 I’m currently learning about agile data requirements and solutions modelling and collaborating with Mozilla analytics projects!
 
