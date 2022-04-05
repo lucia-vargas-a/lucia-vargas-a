@@ -1,4 +1,6 @@
-Hi, I’m Lucia   @lucia-vargas-a 👋
+Hi, I’m Lucia
+
+@lucia-vargas-a 👋
 
 I’m interested in Data projects particualrly data quality and democratization. Also interestes in outdoor activities, reading and writing.
 
