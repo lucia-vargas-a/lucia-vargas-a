@@ -1,7 +1,4 @@
-Hi, I’m Lucia
-
-@lucia-vargas-a 👋
-
+Hi! I’m Lucia @lucia-vargas-a 👋
 📫 Contact me via LinkedIn https://www.linkedin.com/in/lucia-vargasa/
 
 <!---
